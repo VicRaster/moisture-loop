@@ -111,10 +111,20 @@ The public source and documentation repository is
 problems can be reported through its
 [issue tracker](https://github.com/embersas/moisture-loop/issues).
 
-MoistureLoop is included in the HACS default store:
+MoistureLoop is listed in the HACS default catalog. Since Home Assistant
+2026.11, that catalog is built into Home Assistant as the Marketplace.
+
+On Home Assistant 2026.11 or newer:
+
+1. Go to Settings → Marketplace and search for MoistureLoop.
+2. Download it and restart Home Assistant.
+
+On Home Assistant 2025.9 to 2026.10, use HACS:
 
 1. Open HACS and search for MoistureLoop.
 2. Download it and restart Home Assistant.
+
+Updates are offered from the latest GitHub release.
 
 For manual development installation, copy
 `custom_components/moisture_loop/` into the Home Assistant
@@ -380,8 +390,9 @@ the above, including the one failed attempt that is retained unchanged as
 historical evidence. Validation on this deployment is not a guarantee for other
 hardware, and the centralized brand submission remains deliberately unmade.
 
-Centralized brand submission and HACS default-store submission are not implied
-by the local icon or this repository metadata; neither submission has been made.
+MoistureLoop is in the HACS default catalog (accepted 2026-10-18). The
+integration's own icon is bundled with it; no centralized
+`home-assistant/brands` submission has been made.
 
 ## License
 
