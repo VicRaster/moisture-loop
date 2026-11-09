@@ -1,12 +1,12 @@
 {
   "domain": "moisture_loop",
   "name": "MoistureLoop",
-  "codeowners": ["@embersas"],
+  "codeowners": ["@VicRaster"],
   "config_flow": true,
-  "documentation": "https://github.com/embersas/moisture-loop",
+  "documentation": "https://github.com/VicRaster/moisture-loop",
   "integration_type": "hub",
   "iot_class": "calculated",
-  "issue_tracker": "https://github.com/embersas/moisture-loop/issues",
+  "issue_tracker": "https://github.com/VicRaster/moisture-loop/issues",
   "requirements": [],
   "single_config_entry": true,
   "version": "0.1.3"

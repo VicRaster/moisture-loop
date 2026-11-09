@@ -13,7 +13,7 @@ or official project branding as the identity of another distribution.
 
 The MoistureLoop name, MoistureLoop logo, and official MoistureLoop project branding
 identify the official MoistureLoop project maintained at
-<https://github.com/embersas/moisture-loop>. This policy makes no claim that any
+<https://github.com/VicRaster/moisture-loop>. This policy makes no claim that any
 mark is registered.
 
 ## Forks and derivative distributions

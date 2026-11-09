@@ -5,8 +5,8 @@
 remain tested separately from the explicitly pinned supported-current release.
 No environment may be upgraded in place from one HA line to the other.
 
-Public repository: [`embersas/moisture-loop`](https://github.com/embersas/moisture-loop).
-Use the repository [issue tracker](https://github.com/embersas/moisture-loop/issues)
+Public repository: [`VicRaster/moisture-loop`](https://github.com/VicRaster/moisture-loop).
+Use the repository [issue tracker](https://github.com/VicRaster/moisture-loop/issues)
 for reproducible defects; this project is in the HACS default catalog, which
 Home Assistant 2026.11 and newer show as the built-in Marketplace.
 

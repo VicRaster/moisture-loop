@@ -107,9 +107,9 @@ blocker, and continues conservative accounting until exact OFF evidence exists.
 ## Installation
 
 The public source and documentation repository is
-[`embersas/moisture-loop`](https://github.com/embersas/moisture-loop), and
+[`VicRaster/moisture-loop`](https://github.com/VicRaster/moisture-loop), and
 problems can be reported through its
-[issue tracker](https://github.com/embersas/moisture-loop/issues).
+[issue tracker](https://github.com/VicRaster/moisture-loop/issues).
 
 MoistureLoop is listed in the HACS default catalog. Since Home Assistant
 2026.11, that catalog is built into Home Assistant as the Marketplace.
